@@ -37,6 +37,6 @@ By: _Jstith_
     - ctl-Y
   - Masks?
     - Differentiate regex?
-    
+
 - Lesson 2: Basic Bash Script
   - Walks through creating your first couple of bash scripts, and highlights some of the benefits of making bash scripts rather than just running commands one at a time.
